@@ -1,7 +1,6 @@
 /*Sedak Puri
  * Lab02
  * Intro to CS 3
- * Note: I worked a little bit with Evan Gill on this lab
  */
 
 public class CircularDoublyLinkedList<E> {
